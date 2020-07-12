@@ -1,0 +1,3 @@
+packages:
+- comonad-19
+resolver: lts-16.4
