@@ -1,7 +1,7 @@
 # 🦠 Comonad-19
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/fp-ctd-itmo/hw2-pavponn/blob/master/LICENSE)
 
-Playable simulation of a disease oubreak. It's a simplified model of a disease process based on [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simpler. Despite the project's name, this is not an attempt to imitate the spread of COVID-19.
+Playable simulation of a disease outbreak. It's a simplified model of a disease process based on [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simpler. Despite the project's name, this is not an attempt to imitate the spread of COVID-19.
 
 The goals were to learn how to use comonads in Haskell and to build build something relevant in the light of recent months (spring 2020).
 
