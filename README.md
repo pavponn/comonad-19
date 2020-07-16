@@ -3,7 +3,7 @@
 
 Playable simulation of a disease outbreak. It's a simplified model of a disease process based on [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simpler. Despite the project's name, this is not an attempt to imitate the spread of COVID-19.
 
-The goals were to learn how to use comonads in Haskell and to build build something relevant in the light of recent months (spring 2020).
+The goals were to learn how to use comonads in Haskell and to build something relevant in the light of recent months (spring 2020).
 
 ## Quickstart
 You'll need [Stack](https://docs.haskellstack.org/), [GHC](https://www.haskell.org/ghc/) and [Git](https://git-scm.com/downloads).
