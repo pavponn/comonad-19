@@ -43,8 +43,8 @@ stack run
 Tested manually on macOS Catalina 10.15.4.
 
 ## Resources
-* [Comonads lecture](http://slides.com/fp-ctd/lecture-13)
-* [Outbreak article](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler.
+* [Comonads lecture](http://slides.com/fp-ctd/lecture-13) at ITMO University
+* [Outbreak article](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler
 
 ## Copyright
 Pavel Ponomarev, 2020
