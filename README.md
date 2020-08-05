@@ -1,5 +1,6 @@
 # 🦠 Comonad-19
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/fp-ctd-itmo/hw2-pavponn/blob/master/LICENSE)
+![Haskell Stack CI](https://github.com/pavponn/comonad-19/workflows/Haskell%20Stack%20CI/badge.svg)
 
 Playable simulation of a disease outbreak. It's a simplified model of a disease process based on [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simpler. Despite the project's name, this is **not** an attempt to imitate the spread of COVID-19.
 
